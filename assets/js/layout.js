@@ -7,9 +7,6 @@ const generateLayout = () => {
 	let firstButtonsContainer = `
     <div class="buttonsContainer" id="buttons_1"></div>
   `;
-	let secondButtonsContainer = `
-    <div class="buttonsContainer" id="buttons_2"></div>
-  `;
 	let firstListsContainer = `
     <div class="listsContainer" id="lists_1"></div>
   `;
@@ -34,7 +31,6 @@ const generateLayout = () => {
 			break;
 		case 'buttons':
 			linksBlockLeft.insertAdjacentHTML(position, firstButtonsContainer);
-			linksBlockRight.insertAdjacentHTML(position, secondButtonsContainer);
 			linksBlock.classList.add('removeGap');
 			break;
 		default:
