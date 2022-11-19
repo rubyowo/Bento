@@ -11,8 +11,8 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Kate!',
-	openInNewTab: true,
+	name: 'Rei!',
+	openInNewTab: false,
 	twelveHourFormat: true,
 
 	// Theme
@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning, ',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go Night, ',
+	greetingNight: 'Good Night, ',
 
 	// Layout
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
@@ -67,17 +67,18 @@ const CONFIG = {
 			id: '4',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://music.youtube.com',
+            
 		},
 		{
 			id: '5',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+            name: 'Youtube',
+            icon: 'youtube',
+            link: 'https://youtube.com'
 		},
 		{
 			id: '6',
-			name: 'bot',
+			name: 'Discord',
 			icon: 'bot',
 			link: 'https://discord.com/app',
 		},
