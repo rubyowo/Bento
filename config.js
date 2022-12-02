@@ -16,7 +16,7 @@ const CONFIG = {
 	twelveHourFormat: true,
 
 	// Theme
-	theme: 'catppuccin',
+	theme: 'latte-frappe',
 	imageBackground: false,
 	
 	// Greetings
