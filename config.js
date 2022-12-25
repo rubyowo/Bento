@@ -16,7 +16,8 @@ const CONFIG = {
 	twelveHourFormat: true,
 
 	// Theme
-	theme: 'latte-frappe',
+
+    theme: 'latte-macchiato',
 	imageBackground: false,
 	
 	// Greetings
