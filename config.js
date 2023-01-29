@@ -17,7 +17,7 @@ const CONFIG = {
 
 	// Theme
 
-    theme: 'latte-macchiato',
+    theme: 'latte-mocha',
 	imageBackground: false,
 	
 	// Greetings
