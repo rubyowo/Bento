@@ -55,27 +55,27 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.google.com/',
+			link: 'https://mail.proton.me',
 		},
 		{
 			id: '3',
 			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://libreddit.kavin.rocks',
 		},
 
 		{
 			id: '4',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://music.youtube.com',
+			link: 'https://listen.whatever.social',
             
 		},
 		{
 			id: '5',
             name: 'Youtube',
             icon: 'youtube',
-            link: 'https://youtube.com'
+            link: 'https://piped.video'
 		},
 		{
 			id: '6',
